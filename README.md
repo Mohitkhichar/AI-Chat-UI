@@ -29,7 +29,7 @@ This project implements a frontend-only, polished AI chat interface prototype in
 
 ## Design
 
-The UI was first mocked up in [Figma](https://www.figma.com/file/your-design-link). Key design decisions include:
+The UI was first mocked up in [Figma]([https://www.figma.com/file/your-design-link](https://www.figma.com/design/YAqvoixTqT53NRs1auTs1C/AI-Chat-UI-Mockup?node-id=0-1&p=f&t=iPzJiDepiLy1c0JE-0)). Key design decisions include:
 
 - **Spacing and Layout:** Utilized Tailwind’s padding, margin, and flex utilities to replicate design spacing precisely. The sidebar has fixed width (`w-80`), while the main content flexes to fill space.
 - **Color Scheme:** Adopted Tailwind CSS colors and custom CSS variables for dark and light themes, ensuring consistent color tokens between design and code.
